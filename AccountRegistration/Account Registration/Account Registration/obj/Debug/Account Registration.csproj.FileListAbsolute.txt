@@ -1,0 +1,11 @@
+C:\Users\Red\Desktop\Programming\C# Visual Studio\AccountRegistration\Account Registration\Account Registration\bin\Debug\Account Registration.exe.config
+C:\Users\Red\Desktop\Programming\C# Visual Studio\AccountRegistration\Account Registration\Account Registration\bin\Debug\Account Registration.exe
+C:\Users\Red\Desktop\Programming\C# Visual Studio\AccountRegistration\Account Registration\Account Registration\bin\Debug\Account Registration.pdb
+C:\Users\Red\Desktop\Programming\C# Visual Studio\AccountRegistration\Account Registration\Account Registration\obj\Debug\Account Registration.csproj.AssemblyReference.cache
+C:\Users\Red\Desktop\Programming\C# Visual Studio\AccountRegistration\Account Registration\Account Registration\obj\Debug\Account_Registration.FrmConfirm.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\AccountRegistration\Account Registration\Account Registration\obj\Debug\Account_Registration.frmRegistration.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\AccountRegistration\Account Registration\Account Registration\obj\Debug\Account_Registration.Properties.Resources.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\AccountRegistration\Account Registration\Account Registration\obj\Debug\Account Registration.csproj.GenerateResource.cache
+C:\Users\Red\Desktop\Programming\C# Visual Studio\AccountRegistration\Account Registration\Account Registration\obj\Debug\Account Registration.csproj.CoreCompileInputs.cache
+C:\Users\Red\Desktop\Programming\C# Visual Studio\AccountRegistration\Account Registration\Account Registration\obj\Debug\Account Registration.exe
+C:\Users\Red\Desktop\Programming\C# Visual Studio\AccountRegistration\Account Registration\Account Registration\obj\Debug\Account Registration.pdb
